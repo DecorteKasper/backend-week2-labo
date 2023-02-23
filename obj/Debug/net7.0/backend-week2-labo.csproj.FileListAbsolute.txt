@@ -1,0 +1,6 @@
+/Users/kasper/Documents/MCT/Jaar 2/SEM 2/Backend development/Labo/week2/backend-week2-labo/obj/Debug/net7.0/backend-week2-labo.csproj.AssemblyReference.cache
+/Users/kasper/Documents/MCT/Jaar 2/SEM 2/Backend development/Labo/week2/backend-week2-labo/obj/Debug/net7.0/backend-week2-labo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kasper/Documents/MCT/Jaar 2/SEM 2/Backend development/Labo/week2/backend-week2-labo/obj/Debug/net7.0/backend-week2-labo.AssemblyInfoInputs.cache
+/Users/kasper/Documents/MCT/Jaar 2/SEM 2/Backend development/Labo/week2/backend-week2-labo/obj/Debug/net7.0/backend-week2-labo.AssemblyInfo.cs
+/Users/kasper/Documents/MCT/Jaar 2/SEM 2/Backend development/Labo/week2/backend-week2-labo/obj/Debug/net7.0/backend-week2-labo.csproj.CoreCompileInputs.cache
+/Users/kasper/Documents/MCT/Jaar 2/SEM 2/Backend development/Labo/week2/backend-week2-labo/obj/Debug/net7.0/backend-week2-labo.MvcApplicationPartsAssemblyInfo.cache
